@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Al Reasat Rafio</b>
+  <b>Md Takib Uddin Sarker</b>
 </h1>
 
-Heya! I'm Al Reasat Rafio, a CS student currently living in Dhaka, Bangladesh.
+Heya! I'm Md Takib Uddin Sarker, a CS student currently living in Dhaka, Bangladesh.
 
 <br>
 
