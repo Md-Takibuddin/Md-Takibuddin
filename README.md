@@ -70,7 +70,7 @@ class MD_Takib_UDDIn {
 </p>
 <br>
 
-[![Takib Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Takibuddino&custom_title=Reasat%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Md-Takibuddin.dev)
+[![Takib Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Takibuddin&custom_title=Reasat%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Md-Takibuddin.dev)
 
 ------
 
