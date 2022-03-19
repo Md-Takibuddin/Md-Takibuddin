@@ -65,7 +65,7 @@ class MD_Takib_UDDIn {
 <p align="left">
   <a href="https://reasat-rafio.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Md-Takibuddin&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Takibuddino&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Takibuddin&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
